@@ -1,0 +1,11 @@
+.gradle
+.idea
+/app/build
+/app/app.iml
+/build
+/MvpTools/build
+/MvpTools/MvpTools.iml
+gradle.properties
+gradlew.bat
+local.properties
+NeiHanDuanZiTV.iml
